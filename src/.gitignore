@@ -4,3 +4,4 @@
 /libbpf.so*
 /staticobjs
 /sharedobjs
+/root
